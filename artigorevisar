@@ -1,0 +1,548 @@
+                                                                      XII Congreso Iberoamericano de
+                                                             Tecnologías de Apoyo a la Discapacidad
+                                                                   November 20-22, São Carlos, Brazil
+
+
+
+MECANISMOS DE ACIONAMENTO PARA PROTÓTIPO DEEXOESQUELETO
+               POR CÓPIA DE MOVIMENTO CONTRALATERAL
+
+     Gisele Paiva, Universidade Federal de São Carlos, Brasil, gisele.paiva@ufscar.br
+
+     Katylin Rainara Cunha de Meira, Universidade Federal de São Carlos, Brasil,
+                           katylinmeira@outlook.com
+
+    Rafael Vidal Aroca, Universidade Federal de São Carlos, Brasil, aroca@ufscar.br
+
+ Marcos Tan Endo, Universidade Federal de São Carlos, Brasil, marcos.endo@ufscar.br
+
+         Mariano Eduardo Moreno, Universidade Federal de São Carlos, Brasil,
+                             mmoreno@ufscar.br
+
+     Flavia Aparecida Santos Barbosa, Universidade Federal de São Carlos, Brasil,
+                             flavia1996@hotmail.com
+
+Resumo:A perda da funcionalidade da mão é altamente incapacitante em 85% dos casos
+de Acidente Vascular Encefálico (A.V.E.). Como o membro superior é afetado e há
+limitação significativa da funcionalidade dessas pessoas, propõe-se nesse artigo uma
+solução de atuadores possíveis para um protótipo de exoesqueleto em desenvolvimento que
+funcione por cópia de movimento. Assim a utilização desse exoesqueleto pode possibilitar
+copiar o movimento da mão funcional para a outra. O sistema proposto possui uma parte
+composta por sensores, controlador e transmissor que fica na mão funcional, e uma parte
+composta por receptor, controlador e atuadores na outra. O funcionamento consiste no
+envio da leitura do sensor da mão funcional por radio frequência para o controlador da outra
+mão que aciona os atuadores. Nos testes realizados em bancada buscou-se avaliar a
+reprodução do movimento do indicador de uma mão biológica para o indicador de uma
+mão protótipo. Como resultado, espera-se que o mecanismo seja capaz de reproduzir
+fielmente o movimento da mão biológica para a mão protótipo. Esta parte é fundamental
+para o avanço no estudo de exoesqueletos automatizados, que apresentam vantagens quanto
+ao tempo de recuperação mesmo em inícios tardios em terapias de reabilitação.
+Palavras-chave: Reabilitação, Exoesqueleto, Acidente Vascular Encefálico.
+
+
+Abstract:Loss of hand functionality is highly disabling in 85% of cases of Stroke. As the
+upper limb is affected and there is a significant limitation of the functionality of these
+people, this article proposes a solution of possible actuators for an exoskeleton prototype
+                                                                     XII Congreso Iberoamericano de
+                                                             Tecnologías de Apoyo a la Discapacidad
+                                                                  November 20-22, São Carlos, Brazil
+
+
+
+under development that works by movement copy. Thus, the use of this exoskeleton may
+make it possible to copy the movement of the functional hand to the other. The proposed
+system has a part composed of sensors, controller and transmitter that is in the functional
+hand, and a part composed of receiver, controller and actuators in the other. The operation
+consists of sending the reading of the functional hand sensor by radio frequency to the
+controller of the other hand that activates the actuators. In the tests carried out on the
+bench, we sought to evaluate the reproduction of the movement of the index finger of a
+biological hand to the index finger of a prototype hand. As a result, the mechanism is
+expected to be able to faithfully reproduce the motion of the biological hand for the
+prototype hand. This part is fundamental for the advancement in the study of automated
+exoskeletons, which have advantages in terms of recovery time even in late initiations in
+rehabilitation therapies.
+Keywords: Rehabilitation, Exoskeleton, Stroke.
+                                                                      XII Congreso Iberoamericano de
+                                                              Tecnologías de Apoyo a la Discapacidad
+                                                                   November 20-22, São Carlos, Brazil
+
+
+
+
+   1. Introdução
+O presente estudo refere-se à construção de mecanismos de acionamento para um protótipo em
+desenvolvimento de exoesqueleto para mãos que funcione por cópia de movimento contralateral, ou seja, de
+uma mão para outra. Assim, estudou-se os tipos de atuadores possíveis e implementou-se aquele mais
+conveniente de acordo com a disponibilidade, infraestrutura e custo. A motivação que leva ao assunto
+estudado, refere- se às dificuldades das terapias de reabilitação convencionais ao tratar pacientes de Acidente
+Vascular Encefálico (A.V.E). O A.V.E se manifesta prioritariamente com a presença de disfunção motora e
+disfunção sensorial, cujos danos acarretam o comprometimento da função corporal, diminuição ou perda
+da função neuromusculoesquelética relacionada ao movimento, mobilidade articular, força muscular,
+tônus muscular e movimentos involuntários. As consequências físicas mais comuns são a hemiplegia que
+pode ser definida como uma paralisia completa dos membros superiores e inferiores do mesmo lado do corpo,
+e a hemiparesia, onde esse membro superior acometido pode apresentar diminuição da força muscular ou
+apresentar espasticidade (aumento do tônus muscular). (FEIJO e SANTOS, 2020; OLIVEIRA e SILVEIRA,
+2011; ZHAO et al, 2019). Entre as terapias usadas no tratamento do membro superior, destacam-se a terapia
+de estimulação elétrica funcional, biofeedback eletromiográfico, terapia de espelho, terapia de contensão
+induzida, treino sensório motor e de imagem motora e reabilitação robótica, atuando na recuperação desses
+indivíduos (MEDEIROS et al, 2014). Contudo BROL et al., 2017, afirma que a recuperação da função motora
+do membro superior após o A.V.E. é geralmente mais lenta que a do membro inferior. Por se tratar de um
+estudo voltado a mecanismos de acionamento para um exoesqueleto que vai atuar por cópia de movimento,
+podemos destacar como ilustra a Figura 1, com a intenção de reeducar o cérebro e promover uma ilusão
+visual e cinestésica. Assim, segundo MACHADO et al., 2011 o indivíduo realiza uma série de movimentos
+com o membro saudável que são refletidos pelo espelho e interpretados como se fossem realizados pelo
+membro afetado.
+
+
+
+
+Figura 1. Terapia espelho. Fonte (ROTHGANGEL et al., 2011).
+                                                                      XII Congreso Iberoamericano de
+                                                             Tecnologías de Apoyo a la Discapacidad
+                                                                   November 20-22, São Carlos, Brazil
+
+
+
+A dificuldade em tratar os casos de hemiplegia é tanto maior quanto mais tardio for a busca pela reabilitação,
+pois assim o tônus encontra-se ainda maior, portanto, mais espástico. Embora a recuperação das capacidades
+funcionais perdidas seja possível através do fenômeno denominado de neuroplasticidade, há a necessidade de
+se realizar exercícios de reabilitação com frequência diária, e este processo requer grande quantidade de
+recursos e de tempo. Neste contexto, entra em cena a engenharia em parceria com o campo        da saúde como
+uma forma de trazer soluções mais eficientes e tecnológicas para reabilitação. Assim podemos encontrar na
+literatura as luvas atuadas por elastômeros (sof- tactuator) em sistemas hidráulicos ou pneumáticos, como em
+(POLYGERINOS et al., 2015) e (YAP et al., 2015) respecti- vamente, esses soft actuators apresentam
+inúmeras vantagens quanto à conforto e graus de liberdade, embora sejam custosos e de difícil fabricação, têm
+a capacidade de simular muito bem um músculo. Outras abordagens em terapias reabilitativas de mão, são os
+exoesqueletos construídos com servomotores acoplados à sistemas de transmissão como em (WORNOSPP et
+al., 2007) e (GONZALEZ et al., 2015), que se mostram soluções funcionais e bastante robustas. Entretanto
+em nenhum desses casos o funcionamento da órtese se dá por cópia de movimento de uma mão para a outra.
+Assim, a proposta em estudo busca atender à essa funcionalidade, de modo que em pacientes que apresentem
+quadros de hemiplegia ou hemiparesia, mas que possuem o movimento de uma das mãos preservado, possa
+copiar esse movimento para a outra mão que foi acometida. Para isso será feito uso de sensores de    flexão e
+transmissores na mão funcional e de receptores e atuadores na mão disfuncional, de modo que o movimento
+seja reproduzido da forma mais similar possível.
+
+TRABALHOS RELACIONADOS
+
+É comum encontrar na literatura, mãos robóticas controladas pelo movimento de uma mão biológica como em
+BIIHRER et al., (2017) em aplicações que envolvem robôs capazes de realizar tarefas manuais semelhantes à
+humanos, assim sensores leem o movimento da mão humana e servomotores executam o movimento na mão
+robótica puxando-se linhas que imitam tendões.
+Entretanto, a aplicação de motores e servomotores em um exoesqueleto para mão humana se faz mais
+complexa, uma vez que o motor deve ser capaz de fornecer força suficiente para abrir a mão em casos em
+que há alteração de tônus muscular como sequela do A.V.E. Além disso, os motores devem ser compactos e
+leves, e na totalidade o conjunto de motores deve ser ergonômico e vestível. No mínimo deve ser usado um
+motor para cada dedo, porém para atender a mais graus de liberdade se faz necessário a utilização de mais
+motores, por isso o movimento do polegar é ainda mais difícil de ser executado devido ao acréscimo do grau
+                                                                      XII Congreso Iberoamericano de
+                                                             Tecnologías de Apoyo a la Discapacidad
+                                                                  November 20-22, São Carlos, Brazil
+
+
+
+de liberdade para o movimento de oponência aos outros dedos e à sua amplitude de movimento distinta dos
+demais.
+Ao buscar-se na literatura exemplos de aplicação de motores em órteses, é possível encontrar exoesqueletos
+ativos e passivos como por exemplo em WORNOSPP et al., (2007) que propõe um mecanismo para o dedo
+com 3 juntas, sendo uma para cada falange (proximal, média e distal), cada junta é composta por um sistema
+de transmissão com engrenagens cilíndricas, o movimento é feito de modo a alinhar as articulações, para tanto
+o exoesqueleto deve ser posicionado radialmente ao dedo e fixo a uma tala. Nesse mesmo sentido,
+GONZALEZ et al., 2015 propõe um sistema mecatrônico com seis graus de liberdades por dedo da mão de
+modo que cada falange possui um movimento independente da outra, o mecanismo contém um sistema de
+transmissão com engrenagens helicoidais, cilíndricas e cremalheira. Ambos os sistemas mostram- se
+funcionais, porém muito robustos (pesado) e de complexa construção.
+Devido às dificuldades apresentadas pela órtese acionada através de motores e servomotores, existem muitos
+estudos que trazem soluções alternativas, usando-se elastômeros como atuadores pneumáticos ou hidráulicos
+também chamados de soft actuators, como por exemplo POLYGERINOS et al., (2015) com a soft glove que
+consiste na utilização de blendas de elastômero, que funcionam como câmaras por onde passa fluído
+hidráulico. Cada dedo recebe uma blenda com um devido tipo de enrolamento em fibra de kevlar capaz de
+fornecer extensão, flexão ou torção, de acordo com o grau de liberdade desejado para a movimentação do
+dedo. Da mesma forma YAP et al.,2015 propõe também a utilização de blendas elastoméricas, porém nesse
+caso como atuador pneumático e com diferentes geometrias sem necessitar de enrolamentos com fibra para
+produzir os graus de liberdade necessários. Essa solução mostra-se vantajosas em relação à ergonomia,
+entretanto requerem componentes, como: válvulas proporcionais, reservatório, bomba ou compressor o que
+torna esse tipo de órtese mais custosa que as demais, além disso, as blendas devem confeccionadas
+cuidadosamente para não haver bolhas nem furos, de modo a não ocorrer vazamentos.
+A partir dessa revisão bibliográfica pôde-se observar que existem muitos tipos de órteses ativas como as
+descritas anteriormente para diferentes tipos de reabilitação, com controle de posicionamento, e força
+realizado pelo terapeuta e em malha fechada, entretanto é incomum encontrar-se na literatura órteses ou
+exoesqueletos para reabilitação motora controladas por cópia de movimento contralateral de uma mão
+biológica funcional para outra disfuncional, assim como seus mecanismos de acionamento.
+
+2. Desenvolvimento
+SISTEMA PROPOSTO
+                                                                    XII Congreso Iberoamericano de
+                                                            Tecnologías de Apoyo a la Discapacidad
+                                                                 November 20-22, São Carlos, Brazil
+
+
+
+Nesse sentido o sistema proposto busca oferecer um acionamento à um exoesqueleto de baixo custo em
+desenvolvimento e que funcione por cópia de movimento contra-lateral de uma mão para a outra.
+A. Sistema mecânico
+
+Para o exoesqueleto em desenvolvimento utilizou-se de um mecanismo acionado por servomotores, sendo
+um servomotor para cada dedo de modo a realizar extensão, excetuando-se o polegar devido ao grau de
+liberdade de oponência. Em cada servomotor fixou-se uma polia de raio de 15mm, por onde enrola-se um fio
+de nylon que passa através dos três anéis que são colocados em cada falange de cada dedo, conforme ilustra
+a Figura 2.
+
+
+
+
+Figura 2. Anéis de termoplásticos em azul, colocados em cada falange nos dedos indicador, médio, anelar e
+mínimo.
+Os anéis foram moldados em baixa temperatura por meio de uma fita termoplástica semelhante a um tecido
+em rolo, e por cada anel foi aderida a uma cânula do tipo equipo para soro e que nesse caso, serviu de guia
+para a linha de nylon. Escolheu- se a linha de nylon de capacidade de 10kg por conseguir suportar o torque
+do servomotor de 9.4 kgf.cm (quando alimentado com 5V), teoricamente o conjunto servomotor e polia
+fornece 6kgf. O objetivo dessa linha é então puxar a falange distal de cada dedo através de seu
+enrolamento na polia quando o servomotor gira, realizando-se o movimento de extensão do dedo que
+encontra-se inicialmente flexionado. Para fixar os motores junto à mão, desenhou-se uma pla- taforma
+compacta, com encaixe para fixação parafusada dos quatro servomotores, representada pela Figura 3.
+                                                                   XII Congreso Iberoamericano de
+                                                            Tecnologías de Apoyo a la Discapacidad
+                                                                 November 20-22, São Carlos, Brazil
+
+
+
+
+Figura 3. Servomotores acomodados na plataforma de fixação.
+A plataforma foi desenhada de maneira modular para facilitar a impressão, em quatro partes conforme
+ilustra a Figura 4, de modo que os furos de saída do fio de nylon mostrado na Figura 4 (a) fossem
+personalizados de acordo com a distância entre as falanges proximais de cada mão, para manter o
+movimento de extensão alinhado. A fixação da “plataforma berço” dos servomotores na mão, pode ser feita
+por meio de velcro na região do carpo e metacarpo da mão, conforme ilustra Figura 11. Essa plataforma
+foi confeccionada por impressão 3D o que permitiu tal personalização, o filamento utilizado para a mesma,
+foi o polímero ABS (Acrylonitrile butadiene styrene).
+
+
+
+
+Figura 4. Plataforma berço para os servomotores, vista explodida e montagem do conjunto
+As polias fixadas aos servomotores foram usinadas em nylon por apresentar maior resistência que as polias
+impressas em ABS ou PLA (poliácido láctico) que acabara por romper-se durante os testes realizados, a
+Figura 5 ilustra as duas polias (a) PLA rompida (b)Nylon.
+
+
+
+
+Figura 5. Polias impressa em PLA e usinada em Nylon.
+                                                                     XII Congreso Iberoamericano de
+                                                             Tecnologías de Apoyo a la Discapacidad
+                                                                  November 20-22, São Carlos, Brazil
+
+
+
+Os anéis termoplásticos são presos às falanges proximais, médias e distais, também por meio de velcro o que
+permite o ajuste de acordo com a largura do dedo. Dessa forma a órtese possibilita o ajuste de acordo com o
+tamanho da mão.
+B. Sistema eletrônico
+
+A cópia de movimento de uma mão para a outra f o i feita por meio de sensores, emissor, receptor e
+atuadores, a Figura 6 mostra um esquemático total simplificado. A mão 1 é a mão de referência, nela
+têm-se os sensores de flexão em cada dedo, que funcionam como strain gauge, quando o sensor é flexionado
+há uma variação no valor de sua resistência, esse valor é obtido pela entrada analógica do Arduíno 1, e então
+enviado por um módulo transmissor para o Arduíno 2, o qual recebe a leitura por meio de um módulo
+receptor. O valor recebido pelo Arduíno 2 é então calibrado, convertendo o valor de resistência para valores
+em ângulos, de modo a oferecer o movimento de rotação para o servomotor correspondente ao dedo
+movimentado.
+
+
+
+
+Figura 6. Esquemático da cópia de movimento de uma mão para a outra
+O sistema acoplado à mão 1, ou à mão de referência pode ser visto pelo esquemático da Figura 8, o valor de
+resistência do sensor de flexão lido pelo Arduíno é obtido por meio da saída de um divisor de tensão e o
+valor de resistência escolhido para o resistor fixo, de modo a fornecer o maior intervalo de leitura do
+q u e sensor foi de 57 KOhm. Esse valor foi obtido por meio do cálculo da tensão de saída do divisor de
+tensão, quando o sensor está esticado (25 KOhm) e quando está dobrado (125 KOhm), com diferentes
+valores de resistência fixa, indo de 1 a 200 KOhm em passo de 100 Ohm, assim plotou-se o gráfico de
+intervalo de leitura (Tensão dobrado - tensão esticado) por valor de resistência fixa, como pode ser visto
+pelo gráfico da Figura 7.
+                                                                       XII Congreso Iberoamericano de
+                                                              Tecnologías de Apoyo a la Discapacidad
+                                                                    November 20-22, São Carlos, Brazil
+
+
+
+
+Figura 7. Gráfico para análise de qual o melhor valor de resistência para o resistor fixo do divisor de tensão.
+A leitura obtida pela entrada analógica A0 do Arduíno é transmitida por um módulo transmissor Xbee unido
+ao XBee Explorer USB, cuja suas principais características são descritas na Tabela I, como observa-se a
+corrente de transmissão e recepção é em torno de 45-50 mA correspondendo a 3.3V, por isso também foi
+feito um segundo divisor de tensão de modo a reduzir a tensão, no pino DIN do módulo transmissor.
+Tabela I
+CARACTERÍSTICAS MÓDULO XBEE - RECEPTOR E TRANSMISSOR
+                Performance
+ Alcance ambientes internos 30m
+ Alcance ambientes externos 100m
+ Frequência de operação        ISM 2.4 GHz
+ Taxa de dados                 250000 bps
+                Alimentação
+ Tensão                        2.8 - 3.4 V
+ Corrente de transmissão       45mA - 3.3V
+ Corrente de recepção          50mA - 3.3V
+            Propriedades físicas
+ Massa transmissor             3g
+ Massa receptor                10g
+
+
+
+O sistema referente à mão 2 contém apenas o módulo receptor Xbee shield, com as características descritas
+também na Tabela I, conectado diretamente ao Arduíno 2, e os servo- motores alimentados pelo Arduíno em
+5V recebendo o PWM na saída digital, conforme pode ser visto na Figura 9.
+A vantagem em utilizar-se do módulo Xbee em relação à outros módulos de rádio frequências menos
+custosos, se deve ao padrão de comunicação ZigBee IEEE 802.15.4. O protocolo ZigBee permite
+comunicações robustas e opera na frequência ISM (Industrial, Scientific and Medical), sendo no Brasil e em
+outras partes do mundo 2,4 GHz (16 canais), e não requerem licença para funcionamento. Além disso
+apresenta uma rápida taxa de transmissão de dados (20Kbps a 250Kbps) mesmo operando com vários
+dispositivos, é imune a interferências externas e consome pouca energia para o seu funcionamento.
+                                                                  XII Congreso Iberoamericano de
+                                                          Tecnologías de Apoyo a la Discapacidad
+                                                                November 20-22, São Carlos, Brazil
+
+
+
+
+Figura 8. Circuito eletrônico da mão 1, ou de referência para a leitura do sensor de flexão e transmissão
+desses valores.
+
+
+
+
+Figura 9. Circuito eletrônico da mão com módulo receptor e servomotor.
+
+
+2.3 Método
+Os testes do sistema proposto foram realizados em bancada através de uma mão prototipada em 3D, o
+desenho da mão foi extraído do site InMoov e impresso em PLA. Para simular o efeito da mão do paciente
+com alteração de tônus muscular na mão protótipo, adicionou-se um elástico em cada dedo, de modo a
+mantê-la inicialmente fechada, assim o elástico foi tracionado mantendo a mesma força de tração em cada
+                                                                    XII Congreso Iberoamericano de
+                                                            Tecnologías de Apoyo a la Discapacidad
+                                                                 November 20-22, São Carlos, Brazil
+
+
+
+dedo.
+Essa força de tração foi medida por uma balança de gancho digital, conforme ilustra a Figura 10, assim
+adicionou-se a cada dedo uma pré carga em torno de 0.5 kgf.
+
+
+
+
+Figura 10. Medição da força de tração de pré carga aplicada ao elástico de cada dedo
+Os elásticos foram mantidos tracionados por meio de um dispositivo de aperto parafusado, indicado na
+Figura 11. Por fim posicionou-se e prendeu-se com velcro a órtese junto à mão protótipo inicialmente
+fechada conforme ilustra a Figura 11.
+
+
+
+
+Figura 11. Órtese presa à mão protótipo inicialmente fechada
+
+
+De modo a verificar a funcionalidade do sistema proposto os testes forma feitos copiando-se o movimento
+apenas do dedo indicador.
+O primeiro teste foi feito utilizando-se um sensor de flexão na mão de referência (A) e um sensor de flexão
+na mão protótipo (B), conforme Figura 12.
+                                                                        XII Congreso Iberoamericano de
+                                                              Tecnologías de Apoyo a la Discapacidad
+                                                                   November 20-22, São Carlos, Brazil
+
+
+
+Figura 12. Teste realizado com um sensor e um contra-sensor, de modo a comparar movimentos de uma
+mão em relação a outra.
+Esses dois sensores foram calibrados de forma a obterem as mesmas leituras quando submetidos à
+f le xão . O gráfico da Figura 13 (A) mostra as leituras dos dois sensores em função do tempo e foi utilizado
+para obter uma regressão linear, e a relação do sensor 2 em função do sensor 1 é mostrada no gráfico da
+Figura 13 (B) e descrita pela Equação.
+1. Essa equação foi utilizada na programação para obter uma leitura corrigida de um sensor em relação ao
+outro.
+
+
+
+
+Figura 13. (A) Leituras do sensor e contra-sensor (B) Regressão linear das leituras.
+
+
+                                         s2 = 0.2839 ∗ s1 + 395.1 (1)
+
+
+O segundo teste foi feito por análise computacional de des- locamento dos pixels, através de um vídeo
+utilizando-se do software aberto Tracker. Para isso marcou-se três pontos, um em cada falange, tanto na mão
+de referência, quanto na mão protótipo como indica a Figura 14, em seguida filmou-se alguns ciclos de
+extensão e flexão dos dedos, e posteriormente mediu-se cada ponto virtualmente, transladou-se em todos os
+casos o vetor posição para a origem do sistema de coordenas, de maneira a comparar o posicionamento das
+falanges da mão de referência com a mão protótipo.
+                                                                   XII Congreso Iberoamericano de
+                                                           Tecnologías de Apoyo a la Discapacidad
+                                                                November 20-22, São Carlos, Brazil
+
+
+
+
+Figura 14. Análise digital da cópia de movimento pelo software Tracker.
+
+
+2.4 Resultados
+Por meio do primeiro teste realizado com o sensor na mão de referência e o contra sensor na mão
+protótipo, obteve-se a curva da Figura 15, que compara as leituras de ambos os sensores em função do
+tempo medido pelo Arduíno.
+
+
+
+
+Figura 15. Comparação entre a leitura do sensor posicionado na mão de referência e contra-sensor
+posicionado na órtese e mão protótipo
+A partir do gráfico da Figura 15 é possível observar que o comportamento é similar, ou seja nos maiores
+valores de leitura os sensores encontram-se dobrados e nos menores encontram-se esticados, dessa forma é
+possível observar que os movimentos se repetem, entretanto há uma significativa defasagem entre os picos e
+vales, e essa defasagem se deve à dois motivos principais: o primeiro deles é devido a latência, ou seja,
+diferença no tempo de resposta entre o movimento da mão referência (humana) e o acionamento mecânico
+pelo servo e o segundo devido ao aumento de rigidez no sistema fornecido pelo sensor quando adicionado ao
+conjunto órtese mais mão prototipada, o que dificulta o movimento de abertura do dedo flexionado realizado
+pelo servo.
+O segundo teste foi feito sem a adição do contra-sensor na mão protótipo, para evitar a rigidez adicional
+                                                                     XII Congreso Iberoamericano de
+                                                            Tecnologías de Apoyo a la Discapacidad
+                                                                 November 20-22, São Carlos, Brazil
+
+
+
+atribuída ao sistema. Assim mediu-se por meio dos deslocamentos dos pixeis as posições de cada falange
+da mão biológica e da mão protótipo, nas orientações x (horizontal) e y (vertical), como indica a Figura 14.
+Assim, foi possível obter a curva da Figura 16 para as falanges distais, a curva da Figura 17 para as
+falanges médias e a curva da Figura 18 para as falanges proximais.
+Por meio das curvas das Figuras 16, 17 e 18, é possível observar que tanto na orientação x, quanto em y, há
+uma de- fasagem entre as curvas da mão protótipo e da mão biológica, o que mostra um determinado atraso
+da mão protótipo devido ao fenômeno de latência conforme discutido anteriormente. Além disso na
+orientação x, também observa-se uma diferença de amplitude nos picos, ou seja, quando os dedos encontram-
+se dobrados, a mão protótipo tem uma amplitude maior que a mão biológica, essa amplitude refere-se as
+posições das falanges na direção horizontal, e o fato de ser maior significa que a mão protótipo dobra menos
+que a mão biológica, porém
+                                                                   XII Congreso Iberoamericano de
+                                                           Tecnologías de Apoyo a la Discapacidad
+                                                                November 20-22, São Carlos, Brazil
+
+
+
+
+Figura 16. Curva comparativa entre as falanges distais da mão biológica e da mão protótipo
+
+
+
+
+Figura 17. Curva comparativa entre as falanges médias da mão biológica e da mão protótipo
+                                                                  XII Congreso Iberoamericano de
+                                                          Tecnologías de Apoyo a la Discapacidad
+                                                               November 20-22, São Carlos, Brazil
+
+
+
+Figura 18. Curva comparativa entre as falanges proximais da mão biológica e da mão protótipo
+                                                                     XII Congreso Iberoamericano de
+                                                             Tecnologías de Apoyo a la Discapacidad
+                                                                  November 20-22, São Carlos, Brazil
+
+
+
+quando esticados, as posições horizontais das falanges tanto da mão protótipo quanto da mão biológica são
+praticamente as mesmas, o que é possível ver através das curvas sobrepostas. Entretanto na direção vertical,
+observa-se o contrário, as posi- ções das falanges são iguais quando os dedos estão dobrados, porém
+diferentes quando os dedos estão esticados, o que pode ser visto pelas curvas é que verticalmente as falanges
+da mão protótipo apresenta posições levemente inferiores às posições das falanges da mão biológica.
+Todo o conjunto do exoesqueleto contendo plataforma, servomotores, e anéis termoplásticos do sistema
+proposto apresenta massa equivalente a 316g, conforme ilustra a Figura 19.
+
+
+
+
+Figura 19. Massa total da órtese
+Para verificar o posicionamento, ajustabilidade e conforto, vestiu-se o exoesquelto em uma mão humana
+como ilustra a Figura
+20. A partir disso foi possível verificar que o exoesquelto é facilmente ajustável nas falanges, porém não é
+muito prática de ser colocada, e para maior conforto se faz necessário a adição de uma camada de neoprene
+na região inferior da plataforma que fica em contato com o carpo e metacarpo da mão.
+
+
+
+
+Figura 20. Órtese vestida na mão biológica.
+                                                                    XII Congreso Iberoamericano de
+                                                            Tecnologías de Apoyo a la Discapacidad
+                                                                 November 20-22, São Carlos, Brazil
+
+
+
+3. Conclusões
+
+
+Esse trabalho mostra-se importante para as terapias de reabilitação motora da mão, que se enquadram na
+sequela de hemiplegia e/ou hemiparesia. Assim, a partir desse estudo pode verificar-se a funcionalidade da
+implementação de um sistema eletrônico e mecânico de baixo custo capaz de realizar a cópia de movimento.
+Numa análise qualitativa, pode-se dizer que o sistema proposto reproduz bem o movimento, entretanto
+existem diferenças significativas na cópia do movimento da mão biológicas para a mão protótipo, essas
+diferenças devem-se às limitações físicas correspondente à latência e também à amplitude de giro do
+servomotor. Uma proposta de melhoria para o sistema, seria utilizar-se de motores que não há limitação
+de giro, sendo então possível torná-lo mais compacto, de modo que as polias possam ser me nores, devido a
+possibilidade do motor girar mais e conseguir enrolar mais filamento para reproduzir melhor o movimento
+de extensão, outras melhorias podem ser feitas quanto à redução do tamanho do exoesqueleto em
+desenvolvimento e ergonomia ao utilizar-se de revestimento de neoprene, por exemplo. Um estudo futuro
+pode fornecer também a adição da cópia de movimento para o polegar. De modo geral, o objetivo da cópia
+de movimento é correspondido e os resultados mostram a viabilidade do sistema proposto, que tem a
+vantagem de ser leve e de baixo custo.
+
+
+AGRADECIMENTOS
+Agradecemos à Pétala Bianca Soares Beserra e à Tais Meira, que de certa forma estiveram envolvidas,
+principalmente ajudando coletar fotos e vídeos para este trabalho. Agradecemos também à Profa. Dra.
+Claudia Maria Simões Martinez da Universidade Federal de São Carlos pela revisão final do trabalho.
+
+
+4. Referências
+
+
+[1]   BIIHRER, F. M.; SILVA, P.H.; COSTA, V.C.;CELIBERTO, L. A.; Robo- tic hand: mão robótica
+controlada por movimento de uma mão biológica. Mostra nacional de robótica (MNR). São Paulo, 2017
+[2]   WORSNOPP, T. T.; PESHKIN, M. A.; COLGATE, J. E.; KAMPER, D. G.; An Actuated Finger
+Exoskeleton for Hand Rehabilitation Following Stroke. 10th International Conference on Rehabilitation
+Robotics. The Netherlands, 2015.
+[3]   FEIJÓ, G. M. S.; SANTOS, R.V. Influência do tônus muscular na função do membro superior de
+indivíduos hemiparéticos. Revista de Neurociência, n. 28, p.1-20, 2020.
+                                                                      XII Congreso Iberoamericano de
+                                                               Tecnologías de Apoyo a la Discapacidad
+                                                                    November 20-22, São Carlos, Brazil
+
+
+
+[4]    GONZALEZ, O. S.; VILLEGAS, J. J.; AGUILAR, I. H.; RODRIGUEZ, O. P.; TRIPICCHIO, P.;
+RAMOS, M. H.; CUAUTLE, A.F.; AVIZZANO, C.; Design and Development of a Hand Exoskeleton
+Robot for Active and Passive Rehabilitation. International Journal of Advanced Robotic Systems. USA,
+2016.
+[5]    YAP, H. K.; LIM, J. H., NASRALLAH, F.; GOH, J. C. H.; YEOW, R. C. H.;A Soft Exoskeleton for
+Hand Assistive and Rehabilitation Application using Pneumatic Actuators with Variable Stiffness.IEEE
+International Conference on Robotics and Automation (ICRA). Washington, 2015.
+[6]    POLYGERINOS, P.; GALLOWAY, K. C.; SAVAGE, E.; HERMAN, M.; O’DONNELL, K.; WALSH,
+C.J; Soft Robotic Glove for Hand Rehabilitation and Task Specific Training. IEEE International Conference
+on Robotics and Automation (ICRA). USA, 2015.
+[7]    BROL, A. M.; BORTOLOTO, F.; MAGAGNIN, N. M. dos S. Trata- mento de restrição e indução do
+movimento na reabilitação funcional de pacientes pós acidente vascular encefálico: uma revisão
+bibliográfica. Fisioterapia em Movimento, v. 22, n. 4, 2017.
+[8]    MACHADO, S. et al. Terapia-espelho aplicada à recuperação funcional de pacientes pós-acidente
+vascular cerebral. Rev Neurocienc, v. 19, n. 1, p. 171–5, 2011.
+[9]    OLIVEIRA, A.I.C.; SILVEIRA, K.R.M. Utilização da CIF em pacientes com sequelas de AVC. Revista
+de Neurociência, v.19, n.4, 653-662p., 2011.
+[10]   ROTHGANGEL, A. S. et al. The clinical aspects of mirror therapy in rehabilitation: a systematic review
+of the literature. International Journal of Rehabilitation Research, LWW, v. 34, n. 1, p. 1–13, 2011.
+[11]   ROBOTIC HAND MODEL. Disponível em: <http://inmoov.fr/hand-and- forarm/>. Acesso em: 24
+outubro 2018
+[12]   ZHAO1, S.; ZHU, T.; ZHONG, B.; LU, X. An Upper Limb Rehabilitation Training and Evaluation
+System for Stroke Patients. International Conference on Computational Modeling, Simulation and
+Optimization, 2019.
+       XII Congreso Iberoamericano de
+Tecnologías de Apoyo a la Discapacidad
+     November 20-22, São Carlos, Brazil
+
