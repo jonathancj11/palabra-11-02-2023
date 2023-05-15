@@ -67,9 +67,7 @@ mech.nagoya-u.ac.jp).                                                           
    Color versions of one or more of the figures in this paper are available online
 at http://ieeexplore.ieee.org.                                                       [14]. Therefore, in order for these misalignment compensation
    Digital Object Identifier 10.1109/TRO.2015.2450414                                approaches not to affect the user’s safety and comfort or the
-                          1552-3098 © 2015 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission.
-                              See http://www.ieee.org/publications standards/publications/rights/index.html for more information.
-      Authorized licensed use limited to: UNIVERSIDADE DE SAO PAULO. Downloaded on May 15,2023 at 20:22:15 UTC from IEEE Xplore. Restrictions apply.
+                          
 ZANOTTO et al.: KNEE JOINT MISALIGNMENT IN EXOSKELETONS FOR THE LOWER EXTREMITIES: EFFECTS ON USER’S GAIT                                              979
 
 
@@ -133,7 +131,7 @@ force sensing, see Section II-C, [20], [21]), a significant fraction         20 
                                                                              misalignments induced by the short and long thigh lengths were
   1 ATI   Industrial Automation, Apex, NC, USA.                              substantially larger than any uncontrolled misalignment that
 
-     Authorized licensed use limited to: UNIVERSIDADE DE SAO PAULO. Downloaded on May 15,2023 at 20:22:15 UTC from IEEE Xplore. Restrictions apply.
+     
 980                                                                                        IEEE TRANSACTIONS ON ROBOTICS, VOL. 31, NO. 4, AUGUST 2015
 
 
@@ -213,7 +211,7 @@ shape of the posterior aspect of femur condyles, the human shank               a
                                                                                   τ m = Mtot (q) q̈ + V (q, q̇) + G (q) + Fr (q, q̇) + τ Rint
   2 PASCO,   Roseville, CA, USA.                                                                                                             (1)
 
-      Authorized licensed use limited to: UNIVERSIDADE DE SAO PAULO. Downloaded on May 15,2023 at 20:22:15 UTC from IEEE Xplore. Restrictions apply.
+      
 ZANOTTO et al.: KNEE JOINT MISALIGNMENT IN EXOSKELETONS FOR THE LOWER EXTREMITIES: EFFECTS ON USER’S GAIT                                                 981
 
 
@@ -279,7 +277,7 @@ sured by single-axis torque sensors mounted on the output shaft              con
    3 We assume friction to be mostly due to the gearboxes and negligible     to measure the robot and the human sagittal joint angles, re-
 elsewhere.                                                                   spectively. For each subject, position data were time normalized
 
-     Authorized licensed use limited to: UNIVERSIDADE DE SAO PAULO. Downloaded on May 15,2023 at 20:22:15 UTC from IEEE Xplore. Restrictions apply.
+    
 982                                                                                        IEEE TRANSACTIONS ON ROBOTICS, VOL. 31, NO. 4, AUGUST 2015
 
 
@@ -358,7 +356,7 @@ tests were conducted using SPSS.5                                               
 
 
 
-      Authorized licensed use limited to: UNIVERSIDADE DE SAO PAULO. Downloaded on May 15,2023 at 20:22:15 UTC from IEEE Xplore. Restrictions apply.
+      
 ZANOTTO et al.: KNEE JOINT MISALIGNMENT IN EXOSKELETONS FOR THE LOWER EXTREMITIES: EFFECTS ON USER’S GAIT                                                    983
 
 
@@ -408,7 +406,7 @@ the thigh link about the hip joint, thus amplifying the hip inertial            
 torques described by (3). The moment of inertia of the robotic                      ative (i.e., acting in the same direction as the thigh reactions)
 
 
-     Authorized licensed use limited to: UNIVERSIDADE DE SAO PAULO. Downloaded on May 15,2023 at 20:22:15 UTC from IEEE Xplore. Restrictions apply.
+     
 984                                                                                        IEEE TRANSACTIONS ON ROBOTICS, VOL. 31, NO. 4, AUGUST 2015
 
 
@@ -459,7 +457,6 @@ ertia of the robotic leg helps flexion of the hip, and resists the             o
 action of the knee extensors that decelerate the flexing lower                 model—attenuates the effects of a long lT on ROMRK . Indeed,
 
 
-      Authorized licensed use limited to: UNIVERSIDADE DE SAO PAULO. Downloaded on May 15,2023 at 20:22:15 UTC from IEEE Xplore. Restrictions apply.
 ZANOTTO et al.: KNEE JOINT MISALIGNMENT IN EXOSKELETONS FOR THE LOWER EXTREMITIES: EFFECTS ON USER’S GAIT                                             985
 
 
@@ -538,7 +535,6 @@ was amplified when inertia was partially masked to the wearer                LOP
    Temporal symmetry was negatively impacted by the inertia of               fit the subject’s legs into the robot and reduce macromisalign-
 the robotic leg (which acted on the left leg only) and by speed,             ments. The user is connected to the robot via a semirigid thigh
 
-     Authorized licensed use limited to: UNIVERSIDADE DE SAO PAULO. Downloaded on May 15,2023 at 20:22:15 UTC from IEEE Xplore. Restrictions apply.
 986                                                                                       IEEE TRANSACTIONS ON ROBOTICS, VOL. 31, NO. 4, AUGUST 2015
 
 
@@ -605,7 +601,6 @@ plemented, and 2) an excessively long robot thigh is preferable                 
 to an excessively short one.                                                        ing,” J. Biomech., vol. 3, no. 1, pp. 51–61, 1970.
 
 
-      Authorized licensed use limited to: UNIVERSIDADE DE SAO PAULO. Downloaded on May 15,2023 at 20:22:15 UTC from IEEE Xplore. Restrictions apply.
 ZANOTTO et al.: KNEE JOINT MISALIGNMENT IN EXOSKELETONS FOR THE LOWER EXTREMITIES: EFFECTS ON USER’S GAIT                                                      987
 
 
@@ -689,5 +684,4 @@ to an excessively short one.                                                    
 
 
 
-     Authorized licensed use limited to: UNIVERSIDADE DE SAO PAULO. Downloaded on May 15,2023 at 20:22:15 UTC from IEEE Xplore. Restrictions apply.
 
