@@ -1,548 +1,61 @@
-                                                                      XII Congreso Iberoamericano de
-                                                             Tecnologías de Apoyo a la Discapacidad
-                                                                   November 20-22, São Carlos, Brazil
+AUDIO PALABRA SÁBADO 06-05-2023 Pt1.mp3
+La teología, por decir algún término, y los intérpretes de la ley, los intérpretes de las escrituras se han encargado, particularmente en términos generales, de dificultar el camino al entendimiento de las cosas.
 
+La mistificación de personajes, la exageración, la hipérbole, el ver tanta manipulación de la información ha logrado que se tenga una de estas dos actitudes hacia las Escrituras o una credibilidad abyecta. Sí, porque sí, porque ahí dice; sin pensar, sin entender que no es fe, sino es una credulidad como la del pueblo que vota por un político, por su político. No es fe, no es certeza de lo que se espera, no. Es la esperanza, la ilusión de que quizás no sea tan malo como los anteriores.
 
+Esto o lo contrario un escepticismo, estos son fábulas, estos son leyendas, aquí no hay nada que mirar. Entonces, el resultado en conjunto de estos y estos pues es deplorable, porque ¿Dónde se va a levantar? ¿Y de dónde? ¿Y a qué horas? ¿Y cómo? ¿De qué manera? Un pueblo grande y fuerte. Un pueblo que no lo ha habido ni lo habrá después de Él, en muchas generaciones.
 
-MECANISMOS DE ACIONAMENTO PARA PROTÓTIPO DEEXOESQUELETO
-               POR CÓPIA DE MOVIMENTO CONTRALATERAL
+¿Cómo va a salir un pueblo fuerte de crédulos o de incrédulos? No de creyentes. Dije crédulos. La credulidad, que es la de la mente más del simple, del tonto, del ignorante, del necio, del fatuo. Que sí. Sí, Sí. Sin entender ni lo que hablan, ni lo que afirman, ni lo que les dicen, sino les enseñaron a tragar entero y a decir Amén. Y a los otros los indujeron a resistirse a la posibilidad de algo diferente a lo que ellos pueden ver o entender o a lo que sus sentidos les indiquen.
 
-     Gisele Paiva, Universidade Federal de São Carlos, Brasil, gisele.paiva@ufscar.br
+Entonces, ese era el panorama. Me propuse, pues, por un lado, revelar los trucos de los magos, de los hechiceros, de los encantadores, de las Cortes, para que haya cada vez menos personas engañadas o con riesgo de ser engañadas, sabiendo que hay engañadores, ojo. Es como si el Banco de la República de tu país, o el Banco Oficial, o el Banco Nacional o el Banco estatal sabe que hay circulación de billetes falsos o falsificados. Entonces va a dar unas clases, unas inducciones para que los ciudadanos conozcan las características del billete genuino y puedan hacer la diferencia con el billete, que es una falsificación.
 
-     Katylin Rainara Cunha de Meira, Universidade Federal de São Carlos, Brasil,
-                           katylinmeira@outlook.com
+Entonces, yo de parte del Banco Central Celestial, estoy encargado de presentar cuáles son las improntas que aparecen en el papel moneda genuino y cómo descubrir las falsificaciones y las impostaciones. En ese orden de ideas no le deshecho la teología de un plumazo, sino que digo podremos trabajar una manera de teologizar que la hemos denominado amablemente la teología simplificada.
 
-    Rafael Vidal Aroca, Universidade Federal de São Carlos, Brasil, aroca@ufscar.br
+¿Cómo es eso? Pues la de aquel ciego en Jerusalén. Que lo quisieron inculpar a él o inculpar a Jesús que le había sanado, porque era en sábado y profanaba la religiosidad del Sacrosanto Sabbat, que como está escrito y como fue dicho. El sábado es para el hombre y no el hombre para el sábado.
 
- Marcos Tan Endo, Universidade Federal de São Carlos, Brasil, marcos.endo@ufscar.br
+Y bueno. ¿Qué hizo el ciego? Cuando le dijeron que el hombre que le había sanado era un hombre pecador porque había quebrantado la santa ley al escupir en tierra y hacer un poco de lodo, un poco de masa, de arcilla, de greda, para embadurnarle los ojos y decirle, bueno, ahora ve al estanque de Siloé y lávate. Y el hombre recuperó la vista. Ciego de nacimiento. Hombre que no había visto nunca. Y le dicen es un pecador. Y dijo: ahí sí, yo no sé. Porque no ve que yo no soy teólogo, ni siquiera sé con claridad qué es pecado y qué no es pecado. ¿Qué es Amartya? No lo sé. No he estudiado las escrituras. No ve que no había braille en aquel tiempo, entonces no podía leer, porque era ciego.
 
-         Mariano Eduardo Moreno, Universidade Federal de São Carlos, Brasil,
-                             mmoreno@ufscar.br
+Entonces él dice: "Lo único que yo sé es que yo era ciego y ahora veo, eso sé". Fuerte, porque en la simplicidad está esa grandeza. O sea, un solo golpe de espada corta de un tajo el nudo gordiano y hace que se cumpla la profecía del oráculo de Delfos y Alejandro llegue a ser el gran conquistador del mundo.
 
-     Flavia Aparecida Santos Barbosa, Universidade Federal de São Carlos, Brasil,
-                             flavia1996@hotmail.com
+Y en un período corto de tiempo, siendo de 30 años cuando empezó a conquistar. A los 33 años ya había conquistado el mundo que se conocía. Entonces. ¿Cómo hace que se cumpla la profecía si ese nudo no se podía desatar? Pues no lo desató, lo cortó y eso le valió al oráculo. Y entonces, independientemente cual sea el espíritu que movía allí la adivinación o la profecía en el oráculo de Delfos, hay un común denominador en el plano espiritual, y es que la simplicidad hace que el mundo del espíritu le dé el amén al golpe de estado de espada de Alejandro Magno.
 
-Resumo:A perda da funcionalidade da mão é altamente incapacitante em 85% dos casos
-de Acidente Vascular Encefálico (A.V.E.). Como o membro superior é afetado e há
-limitação significativa da funcionalidade dessas pessoas, propõe-se nesse artigo uma
-solução de atuadores possíveis para um protótipo de exoesqueleto em desenvolvimento que
-funcione por cópia de movimento. Assim a utilização desse exoesqueleto pode possibilitar
-copiar o movimento da mão funcional para a outra. O sistema proposto possui uma parte
-composta por sensores, controlador e transmissor que fica na mão funcional, e uma parte
-composta por receptor, controlador e atuadores na outra. O funcionamento consiste no
-envio da leitura do sensor da mão funcional por radio frequência para o controlador da outra
-mão que aciona os atuadores. Nos testes realizados em bancada buscou-se avaliar a
-reprodução do movimento do indicador de uma mão biológica para o indicador de uma
-mão protótipo. Como resultado, espera-se que o mecanismo seja capaz de reproduzir
-fielmente o movimento da mão biológica para a mão protótipo. Esta parte é fundamental
-para o avanço no estudo de exoesqueletos automatizados, que apresentam vantagens quanto
-ao tempo de recuperação mesmo em inícios tardios em terapias de reabilitação.
-Palavras-chave: Reabilitação, Exoesqueleto, Acidente Vascular Encefálico.
+Miren la otra expresión que lo puse como ejemplo en la semana pasada o antepasada. Se encuentra Jesús con la samaritana. Y Jesús es un judío y ella una samaritana. Judíos y samaritanos están enfrentados por doctrinas. Porque los samaritanos dijeron 'Nosotros hacemos las cosas conforme debe ser'. Y ellos se fueron, se desviaron, los judíos están desviados. Y los judíos decían 'los samaritanos están desviados'. Los samaritanos decían 'Nosotros tenemos el templo'. Los judíos decían 'Nosotros tenemos el templo'.
 
+Porque está en el monte que es. Y ellos decían 'Nosotros estamos en el monte que es'. No es Moriah, es Gerizim, el monte de la bendición, el que está establecido en la ley. Y entonces Jesús simplifica y dice: "No, no es ni en ese monte ni en el otro monte". O sea, ni los judíos ni los samaritanos están bien enfocados. Aquí viene la revelación. Es en el Espíritu, no es en el monte. Entonces, todos los debates teológicos que han existido, las guerras, las persecuciones, las prisiones, las ejecuciones, los holocaustos, los genocidios que han sucedido contra distintos grupos. Persecuciones de judíos por ser judíos. De cátaros, de albigenses, de templarios, de gnósticos, de brujas. Brujas entre comillas, simplemente mujeres; de cristianos que trabajaban o propendían por una independencia centralista de Roma y querían desarrollar iglesia nacional.
 
-Abstract:Loss of hand functionality is highly disabling in 85% of cases of Stroke. As the
-upper limb is affected and there is a significant limitation of the functionality of these
-people, this article proposes a solution of possible actuators for an exoskeleton prototype
-                                                                     XII Congreso Iberoamericano de
-                                                             Tecnologías de Apoyo a la Discapacidad
-                                                                  November 20-22, São Carlos, Brazil
+Matanzas, persecuciones, cárceles, genocidios. Si trabajásemos teología simplificada, solucionaríamos tantos problemas. ¡Tantos problemas! Les voy a contar una anécdota. Hace bastante tiempo; hace casi 40 años. Estaban comenzando los años ochenta y vamos a tener una reunión un fin de semana. Estamos en el salón de la reunión. Todavía es temprano. Estamos organizando las bancas, las sillas, etcétera, etcétera. Bueno, esto los detalles previos a la reunión. Es en la ciudad de Bogotá, al norte, y yo estoy con un hermano que es Luis Laguna, para variar. Y entonces, él me dice es posible que mi papá venga hoy a la reunión. El papá del hermano Luis era un médico muy prestamente y está pues en pleno vigor de su capacidad como médico. Es un hombre alto, imponente. Y obviamente no es creyente y ha visto con ojos muy críticos la supuesta conversión de su hijo; ¡de su hijo! Ese sí era su Isaac, él no tenía por ahí un Ismael. Sólo tenía hijas y un varón.
 
+Y el varón está predicando el evangelio. Él era médico. Él quería que su hijo fuera médico. Bueno, el hijo termina estudiando para ser abogado, cosa que no le gusta pues, a nadie, sino a los abogados, pero el resto es como algo así como un recaudador de impuestos en los días de Jesús. Entonces, era tenido como personaje de cuidado y bueno, el hijo abogado y creyente. Y estábamos ahí hablando en esas cuando parquea su flamante automóvil Dodge Darth, color rojo; rojo Bermellón. Rojo cereza. Un rojo así encendido y se baja el doctor Luis Ernesto Laguna. Y entonces, Luis ¡vino mi papá! Ya iba a empezar la reunión. Y entonces yo: "Bueno, tranquilo, yo voy a predicar" ¡ay, hermano, Dios mío! Ustedes, tal vez no han visto nunca al hermano Luis nervioso, y yo tampoco, exceptuando ese día. Estaba que se comía las uñas. Creo que hasta las uñas de los pies. Estaba verdaderamente nervioso porque el papá era el papá, un pater familia, era el cacique del clan, de la dinastía de los Luises.
 
+De ahí para atrás y de ahí para adelante todos los Luises. Luis 14, Luis 15, Luis 16, el Rey Sol. Bueno, todo eso, eso es de esa línea. Y entonces llega el momento de la encrucijada. Yo estoy, "Señor tengo el peso de la responsabilidad de no solamente cumplir con la obra, con la enseñanza, con predicar, enseñar, instruir; sino que, llegó el papá del amigo y no le puedo salir con: ¡No, pues no se convirtió!, pero tal vez no es de Dios, ese hombre no es de Dios, que es lo que hacen los obreros fraudulentos, los mentirosos, cuando no se les convierten; entonces dicen no, no es de Dios, porque el que es de Dios, las palabras de Dios, oye. En vez de decir, soy un mal predicador. No, nunca. No la autocrítica, no. La autojustificación, Sí. Y entonces, siempre me ha gustado la teología simplificada.
 
-under development that works by movement copy. Thus, the use of this exoskeleton may
-make it possible to copy the movement of the functional hand to the other. The proposed
-system has a part composed of sensors, controller and transmitter that is in the functional
-hand, and a part composed of receiver, controller and actuators in the other. The operation
-consists of sending the reading of the functional hand sensor by radio frequency to the
-controller of the other hand that activates the actuators. In the tests carried out on the
-bench, we sought to evaluate the reproduction of the movement of the index finger of a
-biological hand to the index finger of a prototype hand. As a result, the mechanism is
-expected to be able to faithfully reproduce the motion of the biological hand for the
-prototype hand. This part is fundamental for the advancement in the study of automated
-exoskeletons, which have advantages in terms of recovery time even in late initiations in
-rehabilitation therapies.
-Keywords: Rehabilitation, Exoskeleton, Stroke.
-                                                                      XII Congreso Iberoamericano de
-                                                              Tecnologías de Apoyo a la Discapacidad
-                                                                   November 20-22, São Carlos, Brazil
+Y empezó la reunión. Salgo yo y saludo. Digo buenas tardes. Levante, por favor la mano quien quiera ponerse en paz con Dios por medio de Jesucristo y yo voy a orar por esa persona y esa persona va a orar conmigo. Eso fue todo lo que dije. Era para que el doctor Laguna se hubiera levantado e ido.
 
+Qué dice pues ¿Qué es esta payasada? Yo salgo y eso es lo que digo. No digo buenas noches. Abran sus Biblias en Primera de Corintios, capítulo 13. El amor es sufrido, es benigno. No busca lo suyo. No hace nada indebido. ¡No, no, no! Si yo quería cazar un venado hago un disparo y le golpeo en medio de los ojos. ¡Pum! Y entonces les digo: "Levanten su mano". Y el doctor Laguna levantó su mano. Nadie más. Nadie más. ¡Ojo! Yo había orado por el doctor Laguna y el doctor Laguna levantó su mano. Oramos, oró él, oré yo, oró él y no se convirtió en un misionero, ni en un evangelista, no. Pero Dios ve el corazón.
 
+Se convirtió en alguien que nunca fue un opositor. Un hombre que fue mi amigo. Yo le respeté mucho. Y él también. Yo recibí de él su respeto. Tuvimos diferentes momentos en la vida, de compartir, de dialogar de los temas espirituales. Él me acompañó, por ejemplo en el sepelio de mi madre hace 23 años. Y bueno, hasta el final de sus días mantuvimos una relación relativamente cercana y era un hombre que tenía su Biblia, la leía. ¿Qué entendía? Yo no sé. Ni siquiera sé que entenderás tú. Eso sí, yo no sé. Pero Dios ve el corazón. Teología simplificada.
 
+No, cuántos de los 613 mandamientos, estatutos o preceptos u ordenanzas de la Torá habrá cumplido. ¿Y cuántas habrá incumplido? No lo sé. Yo eso no lo sé. Yo sé que él levantó su mano y abrió su boca. Y si confesó con sus labios que Jesús es el Señor y creyó de verdad en su corazón que Él es un Dios vivo estamos ante un testimonio de un hermano, que hay hermanos raros, hay hermanos serios, hay hermanos muy graciosos, hay hermanos gruñones refunfuñones, hay hermanos tacaños, hay hermanos generosos, hay hermanos que no quieren tener nada que ver con los hermanos; hay de todo.
 
-   1. Introdução
-O presente estudo refere-se à construção de mecanismos de acionamento para um protótipo em
-desenvolvimento de exoesqueleto para mãos que funcione por cópia de movimento contralateral, ou seja, de
-uma mão para outra. Assim, estudou-se os tipos de atuadores possíveis e implementou-se aquele mais
-conveniente de acordo com a disponibilidade, infraestrutura e custo. A motivação que leva ao assunto
-estudado, refere- se às dificuldades das terapias de reabilitação convencionais ao tratar pacientes de Acidente
-Vascular Encefálico (A.V.E). O A.V.E se manifesta prioritariamente com a presença de disfunção motora e
-disfunção sensorial, cujos danos acarretam o comprometimento da função corporal, diminuição ou perda
-da função neuromusculoesquelética relacionada ao movimento, mobilidade articular, força muscular,
-tônus muscular e movimentos involuntários. As consequências físicas mais comuns são a hemiplegia que
-pode ser definida como uma paralisia completa dos membros superiores e inferiores do mesmo lado do corpo,
-e a hemiparesia, onde esse membro superior acometido pode apresentar diminuição da força muscular ou
-apresentar espasticidade (aumento do tônus muscular). (FEIJO e SANTOS, 2020; OLIVEIRA e SILVEIRA,
-2011; ZHAO et al, 2019). Entre as terapias usadas no tratamento do membro superior, destacam-se a terapia
-de estimulação elétrica funcional, biofeedback eletromiográfico, terapia de espelho, terapia de contensão
-induzida, treino sensório motor e de imagem motora e reabilitação robótica, atuando na recuperação desses
-indivíduos (MEDEIROS et al, 2014). Contudo BROL et al., 2017, afirma que a recuperação da função motora
-do membro superior após o A.V.E. é geralmente mais lenta que a do membro inferior. Por se tratar de um
-estudo voltado a mecanismos de acionamento para um exoesqueleto que vai atuar por cópia de movimento,
-podemos destacar como ilustra a Figura 1, com a intenção de reeducar o cérebro e promover uma ilusão
-visual e cinestésica. Assim, segundo MACHADO et al., 2011 o indivíduo realiza uma série de movimentos
-com o membro saudável que são refletidos pelo espelho e interpretados como se fossem realizados pelo
-membro afetado.
+¿No se acuerdan ustedes del proverbio de las abuelas que decía de todo hay en la viña del Señor? Yo nunca he sabido cómo será esa viña. Yo pensaba que las viñas tenían solamente eso, vides y uvas. No, esto es como una cacharrería, la viña del Señor. Bueno, yo no lo sé. Pero este es el testimonio del resultado de simplificar las cosas de manera de ponerle la posibilidad de acceder, porque es que Jesús es fuerte cuando dice no entran y no dejan entrar.
 
+Entonces, la obra, por ejemplo, no, no es que en estos lugares es difícil. En el exterior no es lo mismo que en los países de América Latina. En Miami no se puede hacer lo mismo. En Italia, en España no se puede hacer. Bueno, yo entiendo el corazón con que mis hermanos lo han hablado y tienen razón, porque todo el que esté de acuerdo conmigo tiene razón, y el que esté en desacuerdo, también la tiene, porque por alguna razón lo está planteando.
 
+Es una persona razonable y entonces por supuesto que sí. Pero si nosotros queremos que las cosas cambien, pues hay dos maneras o tú te pones a orar ¡Señor, sé Tú haciendo que las cosas cambien! Y ahí te quedas, digamos por los próximos 2000 años, tus hijos y los hijos de tus hijos y nada va a cambiar. O hacemos que las cosas cambien. Porque tú no puedes orar para que un pollino hijo de asna venga corriendo y se te meta por entre las piernas para que tú quedes montado en el pollino y puedas entrar en Jerusalén, no. Tú tienes que buscarlo, encontrarlo, detectarlo y decirle: mire, está en tal parte, tráiganlo desamárrenlo.
 
+O sea, hay que hacer lo que hay que hacer para que la palabra se cumpla, para que tus sueños, tus planes, tus propósitos, tus metas se cumplan, se alcancen, se logren. Hay que hacer lo que hay que hacer en el orden de Dios; por supuesto, esto no es el todo vale, no. En el orden de Dios. En justicia, en verdad, en sinceridad. Panes sin levadura. ¡Claro que sí! Porque ninguno es coronado, si no lucha legítimamente. Entonces, bueno ¿Qué pasó?
 
-Figura 1. Terapia espelho. Fonte (ROTHGANGEL et al., 2011).
-                                                                      XII Congreso Iberoamericano de
-                                                             Tecnologías de Apoyo a la Discapacidad
-                                                                   November 20-22, São Carlos, Brazil
+Celebramos el primer año de la primera acción evangelística de esta oleada en la que estamos inmersos los que estamos en esta parte de la provincia de Barcelona, con los hermanos que han venido llegando como la lluvia, como la llovizna, Tin, tin, tin. Y entonces; bueno, todo empezó hace un año y unos días con tres hermanas que estuvieron evangelizando, testificando en las calles de París, Cindy Farfán, Lucía Tabares y Dharma Piracón. Hicieron sus primeros contactos, rasgaron el velo, se atrevieron a hablar. Alguien hablará. Ellas no hablan francés, sino algo de español, pero con eso se hicieron entender y llegaron muy felices después de haber orado con las primeras siete personas en las calles de París, pero en los Campos Elíseos, allí, a la sombra de la Torre Eiffel.
 
+Donde te dicen ¡no, ahí no se puede predicar! ahí sólo se va a turistear o a no sé qué o de luna de miel, no lo sé; pero mira, así empieza la historia. Y entonces, se inicia un trabajo pausado. Y para hacer la obra como la tienen por ejemplo, nuestros hermanos en Honduras, donde se reúnen en lugares como San Pedro Sula, en la República de Honduras, en Centroamérica, hermanos hondureños, como se reúnen en el Ecuador, hermanos ecuatorianos, como se reúnen en lugares del Perú, hermanos peruanos. Como se reúnen en Italia hermanos italianos. Pero había un síndrome, el síndrome de que en España no se podían reunir españoles. No, eso tocaba que los colombianos viniéramos a España y nos reuniéramos para poder suplir.
 
+Decir mira españoles ustedes no se reúnen, ustedes no saben de esto. ¿Pero y qué pasó con la teología simplificada? ¿Qué pasó por el que sea español, levante la mano el que se quiera reunir?. ¿Qué tal si presentamos el Evangelio de una manera sencilla, como a niños? Presentando las verdades, las grandes verdades, pero de manera sencilla. No impidiendo la entrada, sino facilitando la entrada.
 
-A dificuldade em tratar os casos de hemiplegia é tanto maior quanto mais tardio for a busca pela reabilitação,
-pois assim o tônus encontra-se ainda maior, portanto, mais espástico. Embora a recuperação das capacidades
-funcionais perdidas seja possível através do fenômeno denominado de neuroplasticidade, há a necessidade de
-se realizar exercícios de reabilitação com frequência diária, e este processo requer grande quantidade de
-recursos e de tempo. Neste contexto, entra em cena a engenharia em parceria com o campo        da saúde como
-uma forma de trazer soluções mais eficientes e tecnológicas para reabilitação. Assim podemos encontrar na
-literatura as luvas atuadas por elastômeros (sof- tactuator) em sistemas hidráulicos ou pneumáticos, como em
-(POLYGERINOS et al., 2015) e (YAP et al., 2015) respecti- vamente, esses soft actuators apresentam
-inúmeras vantagens quanto à conforto e graus de liberdade, embora sejam custosos e de difícil fabricação, têm
-a capacidade de simular muito bem um músculo. Outras abordagens em terapias reabilitativas de mão, são os
-exoesqueletos construídos com servomotores acoplados à sistemas de transmissão como em (WORNOSPP et
-al., 2007) e (GONZALEZ et al., 2015), que se mostram soluções funcionais e bastante robustas. Entretanto
-em nenhum desses casos o funcionamento da órtese se dá por cópia de movimento de uma mão para a outra.
-Assim, a proposta em estudo busca atender à essa funcionalidade, de modo que em pacientes que apresentem
-quadros de hemiplegia ou hemiparesia, mas que possuem o movimento de uma das mãos preservado, possa
-copiar esse movimento para a outra mão que foi acometida. Para isso será feito uso de sensores de    flexão e
-transmissores na mão funcional e de receptores e atuadores na mão disfuncional, de modo que o movimento
-seja reproduzido da forma mais similar possível.
+Entonces, ustedes han visto las listas permanentemente. El evangelismo crece. Los hermanos están siempre testificando en los trenes, en el metro, en las calles, en las cafeterías, en los teatros y se van ganando afectos, se van abriendo puertas, etcétera, etcétera, etcétera.
 
-TRABALHOS RELACIONADOS
+Bueno, a continuación quiero compartir con ustedes un micro video de una reunión que tuvimos en días pasados con motivo de la celebración de la Fiesta de Sucot, de la Fiesta de Tabernáculos. Ahorita en abril, el 14 de abril. Entonces, se hizo en un lugar muy hermoso. ahí ustedes la van a ver. Es una manada pequeña. Es un grupito que no alcanzó a 30. No alcanzaron a ser 30, que le apuntaban a que se reunieran los 30. Claro, para que se reúnan 30. Tú tienes que invitar a 80, porque no tienen la disciplina, ni la formación para reunirse. Y todo esto. ¿Cuál era el requisito? Pues ser creyente, ser hermanos nacidos en la fe, en la Nueva Iglesia y ser españoles de nacimiento. Y bueno, pues muchas cosas. Ahí lo van a ver. Una sola de nuestras monstruosas evangelistas, que es Dharma Piracón pudo estar allí con 17 de sus muchísimas ovejas en esa reunión.
 
-É comum encontrar na literatura, mãos robóticas controladas pelo movimento de uma mão biológica como em
-BIIHRER et al., (2017) em aplicações que envolvem robôs capazes de realizar tarefas manuais semelhantes à
-humanos, assim sensores leem o movimento da mão humana e servomotores executam o movimento na mão
-robótica puxando-se linhas que imitam tendões.
-Entretanto, a aplicação de motores e servomotores em um exoesqueleto para mão humana se faz mais
-complexa, uma vez que o motor deve ser capaz de fornecer força suficiente para abrir a mão em casos em
-que há alteração de tônus muscular como sequela do A.V.E. Além disso, os motores devem ser compactos e
-leves, e na totalidade o conjunto de motores deve ser ergonômico e vestível. No mínimo deve ser usado um
-motor para cada dedo, porém para atender a mais graus de liberdade se faz necessário a utilização de mais
-motores, por isso o movimento do polegar é ainda mais difícil de ser executado devido ao acréscimo do grau
-                                                                      XII Congreso Iberoamericano de
-                                                             Tecnologías de Apoyo a la Discapacidad
-                                                                  November 20-22, São Carlos, Brazil
+Lucía Tabares tuvo también una manada grande, una manada pequeña, pero grande en las cifras que estamos hablando. Entonces, claro, son cosas pequeñas, dicen: ¡Uy, pero si nosotros somos una iglesia de miles y miles!; pues, eso es muy poquito. Claro, pero es que estamos rompiendo ese tabú, esa imposibilidad que surge con la mejor intención del mundo. Y es que, que no, que los españoles no se reúnen, están felices. Tuvimos ujieres españoles, músicos españoles, presentadores españoles, ujier del altar español.
 
+Bueno, y audiencia de españoles. Hay hermanos de muchas latitudes y de muchas nacionalidades, pero se invitaron a este evento. El requisito era Españoles, No, que es ucraniano, ya le haremos su reunión. ¡Que es francés, no dejamos entrar ni a Eric Garnier porque ese es francés, ese no! Cuatro personas ahí las van a ver ustedes en el vídeo, en el micro vídeo y unas fotos. La hermana Paloma, Dharma Piracón, Lucía Tavares y Santiago Pozo, se pusieron la camiseta para servir y acompañar y y estar ahí, en esta primera asamblea, demostración de que las cosas sencillas nos abren puertas sin que nos compliquemos tanto, lo mismo se puede hacer mis queridos amigos, en cualquier lugar en Miami, en Nueva York, en Vancouver, en cualquier lugar, en Sídney, en cualquier lugar. Dicen: ¡No, ahí no se puede!. Entonces, bueno, miremos.
 
-
-de liberdade para o movimento de oponência aos outros dedos e à sua amplitude de movimento distinta dos
-demais.
-Ao buscar-se na literatura exemplos de aplicação de motores em órteses, é possível encontrar exoesqueletos
-ativos e passivos como por exemplo em WORNOSPP et al., (2007) que propõe um mecanismo para o dedo
-com 3 juntas, sendo uma para cada falange (proximal, média e distal), cada junta é composta por um sistema
-de transmissão com engrenagens cilíndricas, o movimento é feito de modo a alinhar as articulações, para tanto
-o exoesqueleto deve ser posicionado radialmente ao dedo e fixo a uma tala. Nesse mesmo sentido,
-GONZALEZ et al., 2015 propõe um sistema mecatrônico com seis graus de liberdades por dedo da mão de
-modo que cada falange possui um movimento independente da outra, o mecanismo contém um sistema de
-transmissão com engrenagens helicoidais, cilíndricas e cremalheira. Ambos os sistemas mostram- se
-funcionais, porém muito robustos (pesado) e de complexa construção.
-Devido às dificuldades apresentadas pela órtese acionada através de motores e servomotores, existem muitos
-estudos que trazem soluções alternativas, usando-se elastômeros como atuadores pneumáticos ou hidráulicos
-também chamados de soft actuators, como por exemplo POLYGERINOS et al., (2015) com a soft glove que
-consiste na utilização de blendas de elastômero, que funcionam como câmaras por onde passa fluído
-hidráulico. Cada dedo recebe uma blenda com um devido tipo de enrolamento em fibra de kevlar capaz de
-fornecer extensão, flexão ou torção, de acordo com o grau de liberdade desejado para a movimentação do
-dedo. Da mesma forma YAP et al.,2015 propõe também a utilização de blendas elastoméricas, porém nesse
-caso como atuador pneumático e com diferentes geometrias sem necessitar de enrolamentos com fibra para
-produzir os graus de liberdade necessários. Essa solução mostra-se vantajosas em relação à ergonomia,
-entretanto requerem componentes, como: válvulas proporcionais, reservatório, bomba ou compressor o que
-torna esse tipo de órtese mais custosa que as demais, além disso, as blendas devem confeccionadas
-cuidadosamente para não haver bolhas nem furos, de modo a não ocorrer vazamentos.
-A partir dessa revisão bibliográfica pôde-se observar que existem muitos tipos de órteses ativas como as
-descritas anteriormente para diferentes tipos de reabilitação, com controle de posicionamento, e força
-realizado pelo terapeuta e em malha fechada, entretanto é incomum encontrar-se na literatura órteses ou
-exoesqueletos para reabilitação motora controladas por cópia de movimento contralateral de uma mão
-biológica funcional para outra disfuncional, assim como seus mecanismos de acionamento.
-
-2. Desenvolvimento
-SISTEMA PROPOSTO
-                                                                    XII Congreso Iberoamericano de
-                                                            Tecnologías de Apoyo a la Discapacidad
-                                                                 November 20-22, São Carlos, Brazil
-
-
-
-Nesse sentido o sistema proposto busca oferecer um acionamento à um exoesqueleto de baixo custo em
-desenvolvimento e que funcione por cópia de movimento contra-lateral de uma mão para a outra.
-A. Sistema mecânico
-
-Para o exoesqueleto em desenvolvimento utilizou-se de um mecanismo acionado por servomotores, sendo
-um servomotor para cada dedo de modo a realizar extensão, excetuando-se o polegar devido ao grau de
-liberdade de oponência. Em cada servomotor fixou-se uma polia de raio de 15mm, por onde enrola-se um fio
-de nylon que passa através dos três anéis que são colocados em cada falange de cada dedo, conforme ilustra
-a Figura 2.
-
-
-
-
-Figura 2. Anéis de termoplásticos em azul, colocados em cada falange nos dedos indicador, médio, anelar e
-mínimo.
-Os anéis foram moldados em baixa temperatura por meio de uma fita termoplástica semelhante a um tecido
-em rolo, e por cada anel foi aderida a uma cânula do tipo equipo para soro e que nesse caso, serviu de guia
-para a linha de nylon. Escolheu- se a linha de nylon de capacidade de 10kg por conseguir suportar o torque
-do servomotor de 9.4 kgf.cm (quando alimentado com 5V), teoricamente o conjunto servomotor e polia
-fornece 6kgf. O objetivo dessa linha é então puxar a falange distal de cada dedo através de seu
-enrolamento na polia quando o servomotor gira, realizando-se o movimento de extensão do dedo que
-encontra-se inicialmente flexionado. Para fixar os motores junto à mão, desenhou-se uma pla- taforma
-compacta, com encaixe para fixação parafusada dos quatro servomotores, representada pela Figura 3.
-                                                                   XII Congreso Iberoamericano de
-                                                            Tecnologías de Apoyo a la Discapacidad
-                                                                 November 20-22, São Carlos, Brazil
-
-
-
-
-Figura 3. Servomotores acomodados na plataforma de fixação.
-A plataforma foi desenhada de maneira modular para facilitar a impressão, em quatro partes conforme
-ilustra a Figura 4, de modo que os furos de saída do fio de nylon mostrado na Figura 4 (a) fossem
-personalizados de acordo com a distância entre as falanges proximais de cada mão, para manter o
-movimento de extensão alinhado. A fixação da “plataforma berço” dos servomotores na mão, pode ser feita
-por meio de velcro na região do carpo e metacarpo da mão, conforme ilustra Figura 11. Essa plataforma
-foi confeccionada por impressão 3D o que permitiu tal personalização, o filamento utilizado para a mesma,
-foi o polímero ABS (Acrylonitrile butadiene styrene).
-
-
-
-
-Figura 4. Plataforma berço para os servomotores, vista explodida e montagem do conjunto
-As polias fixadas aos servomotores foram usinadas em nylon por apresentar maior resistência que as polias
-impressas em ABS ou PLA (poliácido láctico) que acabara por romper-se durante os testes realizados, a
-Figura 5 ilustra as duas polias (a) PLA rompida (b)Nylon.
-
-
-
-
-Figura 5. Polias impressa em PLA e usinada em Nylon.
-                                                                     XII Congreso Iberoamericano de
-                                                             Tecnologías de Apoyo a la Discapacidad
-                                                                  November 20-22, São Carlos, Brazil
-
-
-
-Os anéis termoplásticos são presos às falanges proximais, médias e distais, também por meio de velcro o que
-permite o ajuste de acordo com a largura do dedo. Dessa forma a órtese possibilita o ajuste de acordo com o
-tamanho da mão.
-B. Sistema eletrônico
-
-A cópia de movimento de uma mão para a outra f o i feita por meio de sensores, emissor, receptor e
-atuadores, a Figura 6 mostra um esquemático total simplificado. A mão 1 é a mão de referência, nela
-têm-se os sensores de flexão em cada dedo, que funcionam como strain gauge, quando o sensor é flexionado
-há uma variação no valor de sua resistência, esse valor é obtido pela entrada analógica do Arduíno 1, e então
-enviado por um módulo transmissor para o Arduíno 2, o qual recebe a leitura por meio de um módulo
-receptor. O valor recebido pelo Arduíno 2 é então calibrado, convertendo o valor de resistência para valores
-em ângulos, de modo a oferecer o movimento de rotação para o servomotor correspondente ao dedo
-movimentado.
-
-
-
-
-Figura 6. Esquemático da cópia de movimento de uma mão para a outra
-O sistema acoplado à mão 1, ou à mão de referência pode ser visto pelo esquemático da Figura 8, o valor de
-resistência do sensor de flexão lido pelo Arduíno é obtido por meio da saída de um divisor de tensão e o
-valor de resistência escolhido para o resistor fixo, de modo a fornecer o maior intervalo de leitura do
-q u e sensor foi de 57 KOhm. Esse valor foi obtido por meio do cálculo da tensão de saída do divisor de
-tensão, quando o sensor está esticado (25 KOhm) e quando está dobrado (125 KOhm), com diferentes
-valores de resistência fixa, indo de 1 a 200 KOhm em passo de 100 Ohm, assim plotou-se o gráfico de
-intervalo de leitura (Tensão dobrado - tensão esticado) por valor de resistência fixa, como pode ser visto
-pelo gráfico da Figura 7.
-                                                                       XII Congreso Iberoamericano de
-                                                              Tecnologías de Apoyo a la Discapacidad
-                                                                    November 20-22, São Carlos, Brazil
-
-
-
-
-Figura 7. Gráfico para análise de qual o melhor valor de resistência para o resistor fixo do divisor de tensão.
-A leitura obtida pela entrada analógica A0 do Arduíno é transmitida por um módulo transmissor Xbee unido
-ao XBee Explorer USB, cuja suas principais características são descritas na Tabela I, como observa-se a
-corrente de transmissão e recepção é em torno de 45-50 mA correspondendo a 3.3V, por isso também foi
-feito um segundo divisor de tensão de modo a reduzir a tensão, no pino DIN do módulo transmissor.
-Tabela I
-CARACTERÍSTICAS MÓDULO XBEE - RECEPTOR E TRANSMISSOR
-                Performance
- Alcance ambientes internos 30m
- Alcance ambientes externos 100m
- Frequência de operação        ISM 2.4 GHz
- Taxa de dados                 250000 bps
-                Alimentação
- Tensão                        2.8 - 3.4 V
- Corrente de transmissão       45mA - 3.3V
- Corrente de recepção          50mA - 3.3V
-            Propriedades físicas
- Massa transmissor             3g
- Massa receptor                10g
-
-
-
-O sistema referente à mão 2 contém apenas o módulo receptor Xbee shield, com as características descritas
-também na Tabela I, conectado diretamente ao Arduíno 2, e os servo- motores alimentados pelo Arduíno em
-5V recebendo o PWM na saída digital, conforme pode ser visto na Figura 9.
-A vantagem em utilizar-se do módulo Xbee em relação à outros módulos de rádio frequências menos
-custosos, se deve ao padrão de comunicação ZigBee IEEE 802.15.4. O protocolo ZigBee permite
-comunicações robustas e opera na frequência ISM (Industrial, Scientific and Medical), sendo no Brasil e em
-outras partes do mundo 2,4 GHz (16 canais), e não requerem licença para funcionamento. Além disso
-apresenta uma rápida taxa de transmissão de dados (20Kbps a 250Kbps) mesmo operando com vários
-dispositivos, é imune a interferências externas e consome pouca energia para o seu funcionamento.
-                                                                  XII Congreso Iberoamericano de
-                                                          Tecnologías de Apoyo a la Discapacidad
-                                                                November 20-22, São Carlos, Brazil
-
-
-
-
-Figura 8. Circuito eletrônico da mão 1, ou de referência para a leitura do sensor de flexão e transmissão
-desses valores.
-
-
-
-
-Figura 9. Circuito eletrônico da mão com módulo receptor e servomotor.
-
-
-2.3 Método
-Os testes do sistema proposto foram realizados em bancada através de uma mão prototipada em 3D, o
-desenho da mão foi extraído do site InMoov e impresso em PLA. Para simular o efeito da mão do paciente
-com alteração de tônus muscular na mão protótipo, adicionou-se um elástico em cada dedo, de modo a
-mantê-la inicialmente fechada, assim o elástico foi tracionado mantendo a mesma força de tração em cada
-                                                                    XII Congreso Iberoamericano de
-                                                            Tecnologías de Apoyo a la Discapacidad
-                                                                 November 20-22, São Carlos, Brazil
-
-
-
-dedo.
-Essa força de tração foi medida por uma balança de gancho digital, conforme ilustra a Figura 10, assim
-adicionou-se a cada dedo uma pré carga em torno de 0.5 kgf.
-
-
-
-
-Figura 10. Medição da força de tração de pré carga aplicada ao elástico de cada dedo
-Os elásticos foram mantidos tracionados por meio de um dispositivo de aperto parafusado, indicado na
-Figura 11. Por fim posicionou-se e prendeu-se com velcro a órtese junto à mão protótipo inicialmente
-fechada conforme ilustra a Figura 11.
-
-
-
-
-Figura 11. Órtese presa à mão protótipo inicialmente fechada
-
-
-De modo a verificar a funcionalidade do sistema proposto os testes forma feitos copiando-se o movimento
-apenas do dedo indicador.
-O primeiro teste foi feito utilizando-se um sensor de flexão na mão de referência (A) e um sensor de flexão
-na mão protótipo (B), conforme Figura 12.
-                                                                        XII Congreso Iberoamericano de
-                                                              Tecnologías de Apoyo a la Discapacidad
-                                                                   November 20-22, São Carlos, Brazil
-
-
-
-Figura 12. Teste realizado com um sensor e um contra-sensor, de modo a comparar movimentos de uma
-mão em relação a outra.
-Esses dois sensores foram calibrados de forma a obterem as mesmas leituras quando submetidos à
-f le xão . O gráfico da Figura 13 (A) mostra as leituras dos dois sensores em função do tempo e foi utilizado
-para obter uma regressão linear, e a relação do sensor 2 em função do sensor 1 é mostrada no gráfico da
-Figura 13 (B) e descrita pela Equação.
-1. Essa equação foi utilizada na programação para obter uma leitura corrigida de um sensor em relação ao
-outro.
-
-
-
-
-Figura 13. (A) Leituras do sensor e contra-sensor (B) Regressão linear das leituras.
-
-
-                                         s2 = 0.2839 ∗ s1 + 395.1 (1)
-
-
-O segundo teste foi feito por análise computacional de des- locamento dos pixels, através de um vídeo
-utilizando-se do software aberto Tracker. Para isso marcou-se três pontos, um em cada falange, tanto na mão
-de referência, quanto na mão protótipo como indica a Figura 14, em seguida filmou-se alguns ciclos de
-extensão e flexão dos dedos, e posteriormente mediu-se cada ponto virtualmente, transladou-se em todos os
-casos o vetor posição para a origem do sistema de coordenas, de maneira a comparar o posicionamento das
-falanges da mão de referência com a mão protótipo.
-                                                                   XII Congreso Iberoamericano de
-                                                           Tecnologías de Apoyo a la Discapacidad
-                                                                November 20-22, São Carlos, Brazil
-
-
-
-
-Figura 14. Análise digital da cópia de movimento pelo software Tracker.
-
-
-2.4 Resultados
-Por meio do primeiro teste realizado com o sensor na mão de referência e o contra sensor na mão
-protótipo, obteve-se a curva da Figura 15, que compara as leituras de ambos os sensores em função do
-tempo medido pelo Arduíno.
-
-
-
-
-Figura 15. Comparação entre a leitura do sensor posicionado na mão de referência e contra-sensor
-posicionado na órtese e mão protótipo
-A partir do gráfico da Figura 15 é possível observar que o comportamento é similar, ou seja nos maiores
-valores de leitura os sensores encontram-se dobrados e nos menores encontram-se esticados, dessa forma é
-possível observar que os movimentos se repetem, entretanto há uma significativa defasagem entre os picos e
-vales, e essa defasagem se deve à dois motivos principais: o primeiro deles é devido a latência, ou seja,
-diferença no tempo de resposta entre o movimento da mão referência (humana) e o acionamento mecânico
-pelo servo e o segundo devido ao aumento de rigidez no sistema fornecido pelo sensor quando adicionado ao
-conjunto órtese mais mão prototipada, o que dificulta o movimento de abertura do dedo flexionado realizado
-pelo servo.
-O segundo teste foi feito sem a adição do contra-sensor na mão protótipo, para evitar a rigidez adicional
-                                                                     XII Congreso Iberoamericano de
-                                                            Tecnologías de Apoyo a la Discapacidad
-                                                                 November 20-22, São Carlos, Brazil
-
-
-
-atribuída ao sistema. Assim mediu-se por meio dos deslocamentos dos pixeis as posições de cada falange
-da mão biológica e da mão protótipo, nas orientações x (horizontal) e y (vertical), como indica a Figura 14.
-Assim, foi possível obter a curva da Figura 16 para as falanges distais, a curva da Figura 17 para as
-falanges médias e a curva da Figura 18 para as falanges proximais.
-Por meio das curvas das Figuras 16, 17 e 18, é possível observar que tanto na orientação x, quanto em y, há
-uma de- fasagem entre as curvas da mão protótipo e da mão biológica, o que mostra um determinado atraso
-da mão protótipo devido ao fenômeno de latência conforme discutido anteriormente. Além disso na
-orientação x, também observa-se uma diferença de amplitude nos picos, ou seja, quando os dedos encontram-
-se dobrados, a mão protótipo tem uma amplitude maior que a mão biológica, essa amplitude refere-se as
-posições das falanges na direção horizontal, e o fato de ser maior significa que a mão protótipo dobra menos
-que a mão biológica, porém
-                                                                   XII Congreso Iberoamericano de
-                                                           Tecnologías de Apoyo a la Discapacidad
-                                                                November 20-22, São Carlos, Brazil
-
-
-
-
-Figura 16. Curva comparativa entre as falanges distais da mão biológica e da mão protótipo
-
-
-
-
-Figura 17. Curva comparativa entre as falanges médias da mão biológica e da mão protótipo
-                                                                  XII Congreso Iberoamericano de
-                                                          Tecnologías de Apoyo a la Discapacidad
-                                                               November 20-22, São Carlos, Brazil
-
-
-
-Figura 18. Curva comparativa entre as falanges proximais da mão biológica e da mão protótipo
-                                                                     XII Congreso Iberoamericano de
-                                                             Tecnologías de Apoyo a la Discapacidad
-                                                                  November 20-22, São Carlos, Brazil
-
-
-
-quando esticados, as posições horizontais das falanges tanto da mão protótipo quanto da mão biológica são
-praticamente as mesmas, o que é possível ver através das curvas sobrepostas. Entretanto na direção vertical,
-observa-se o contrário, as posi- ções das falanges são iguais quando os dedos estão dobrados, porém
-diferentes quando os dedos estão esticados, o que pode ser visto pelas curvas é que verticalmente as falanges
-da mão protótipo apresenta posições levemente inferiores às posições das falanges da mão biológica.
-Todo o conjunto do exoesqueleto contendo plataforma, servomotores, e anéis termoplásticos do sistema
-proposto apresenta massa equivalente a 316g, conforme ilustra a Figura 19.
-
-
-
-
-Figura 19. Massa total da órtese
-Para verificar o posicionamento, ajustabilidade e conforto, vestiu-se o exoesquelto em uma mão humana
-como ilustra a Figura
-20. A partir disso foi possível verificar que o exoesquelto é facilmente ajustável nas falanges, porém não é
-muito prática de ser colocada, e para maior conforto se faz necessário a adição de uma camada de neoprene
-na região inferior da plataforma que fica em contato com o carpo e metacarpo da mão.
-
-
-
-
-Figura 20. Órtese vestida na mão biológica.
-                                                                    XII Congreso Iberoamericano de
-                                                            Tecnologías de Apoyo a la Discapacidad
-                                                                 November 20-22, São Carlos, Brazil
-
-
-
-3. Conclusões
-
-
-Esse trabalho mostra-se importante para as terapias de reabilitação motora da mão, que se enquadram na
-sequela de hemiplegia e/ou hemiparesia. Assim, a partir desse estudo pode verificar-se a funcionalidade da
-implementação de um sistema eletrônico e mecânico de baixo custo capaz de realizar a cópia de movimento.
-Numa análise qualitativa, pode-se dizer que o sistema proposto reproduz bem o movimento, entretanto
-existem diferenças significativas na cópia do movimento da mão biológicas para a mão protótipo, essas
-diferenças devem-se às limitações físicas correspondente à latência e também à amplitude de giro do
-servomotor. Uma proposta de melhoria para o sistema, seria utilizar-se de motores que não há limitação
-de giro, sendo então possível torná-lo mais compacto, de modo que as polias possam ser me nores, devido a
-possibilidade do motor girar mais e conseguir enrolar mais filamento para reproduzir melhor o movimento
-de extensão, outras melhorias podem ser feitas quanto à redução do tamanho do exoesqueleto em
-desenvolvimento e ergonomia ao utilizar-se de revestimento de neoprene, por exemplo. Um estudo futuro
-pode fornecer também a adição da cópia de movimento para o polegar. De modo geral, o objetivo da cópia
-de movimento é correspondido e os resultados mostram a viabilidade do sistema proposto, que tem a
-vantagem de ser leve e de baixo custo.
-
-
-AGRADECIMENTOS
-Agradecemos à Pétala Bianca Soares Beserra e à Tais Meira, que de certa forma estiveram envolvidas,
-principalmente ajudando coletar fotos e vídeos para este trabalho. Agradecemos também à Profa. Dra.
-Claudia Maria Simões Martinez da Universidade Federal de São Carlos pela revisão final do trabalho.
-
-
-4. Referências
-
-
-[1]   BIIHRER, F. M.; SILVA, P.H.; COSTA, V.C.;CELIBERTO, L. A.; Robo- tic hand: mão robótica
-controlada por movimento de uma mão biológica. Mostra nacional de robótica (MNR). São Paulo, 2017
-[2]   WORSNOPP, T. T.; PESHKIN, M. A.; COLGATE, J. E.; KAMPER, D. G.; An Actuated Finger
-Exoskeleton for Hand Rehabilitation Following Stroke. 10th International Conference on Rehabilitation
-Robotics. The Netherlands, 2015.
-[3]   FEIJÓ, G. M. S.; SANTOS, R.V. Influência do tônus muscular na função do membro superior de
-indivíduos hemiparéticos. Revista de Neurociência, n. 28, p.1-20, 2020.
-                                                                      XII Congreso Iberoamericano de
-                                                               Tecnologías de Apoyo a la Discapacidad
-                                                                    November 20-22, São Carlos, Brazil
-
-
-
-[4]    GONZALEZ, O. S.; VILLEGAS, J. J.; AGUILAR, I. H.; RODRIGUEZ, O. P.; TRIPICCHIO, P.;
-RAMOS, M. H.; CUAUTLE, A.F.; AVIZZANO, C.; Design and Development of a Hand Exoskeleton
-Robot for Active and Passive Rehabilitation. International Journal of Advanced Robotic Systems. USA,
-2016.
-[5]    YAP, H. K.; LIM, J. H., NASRALLAH, F.; GOH, J. C. H.; YEOW, R. C. H.;A Soft Exoskeleton for
-Hand Assistive and Rehabilitation Application using Pneumatic Actuators with Variable Stiffness.IEEE
-International Conference on Robotics and Automation (ICRA). Washington, 2015.
-[6]    POLYGERINOS, P.; GALLOWAY, K. C.; SAVAGE, E.; HERMAN, M.; O’DONNELL, K.; WALSH,
-C.J; Soft Robotic Glove for Hand Rehabilitation and Task Specific Training. IEEE International Conference
-on Robotics and Automation (ICRA). USA, 2015.
-[7]    BROL, A. M.; BORTOLOTO, F.; MAGAGNIN, N. M. dos S. Trata- mento de restrição e indução do
-movimento na reabilitação funcional de pacientes pós acidente vascular encefálico: uma revisão
-bibliográfica. Fisioterapia em Movimento, v. 22, n. 4, 2017.
-[8]    MACHADO, S. et al. Terapia-espelho aplicada à recuperação funcional de pacientes pós-acidente
-vascular cerebral. Rev Neurocienc, v. 19, n. 1, p. 171–5, 2011.
-[9]    OLIVEIRA, A.I.C.; SILVEIRA, K.R.M. Utilização da CIF em pacientes com sequelas de AVC. Revista
-de Neurociência, v.19, n.4, 653-662p., 2011.
-[10]   ROTHGANGEL, A. S. et al. The clinical aspects of mirror therapy in rehabilitation: a systematic review
-of the literature. International Journal of Rehabilitation Research, LWW, v. 34, n. 1, p. 1–13, 2011.
-[11]   ROBOTIC HAND MODEL. Disponível em: <http://inmoov.fr/hand-and- forarm/>. Acesso em: 24
-outubro 2018
-[12]   ZHAO1, S.; ZHU, T.; ZHONG, B.; LU, X. An Upper Limb Rehabilitation Training and Evaluation
-System for Stroke Patients. International Conference on Computational Modeling, Simulation and
-Optimization, 2019.
-       XII Congreso Iberoamericano de
-Tecnologías de Apoyo a la Discapacidad
-     November 20-22, São Carlos, Brazil
-
